@@ -1,4 +1,7 @@
-# Reviews-Scrapper-Web-Application
+## Reviews-Scrapper-Web-Application
 
- https://reviewscrapperzia.herokuapp.com/
+ ### Link (Deployed in Heroku): https://reviewscrapperzia.herokuapp.com/
+ 
+ ### Data Source: https://www.flipkart.com/
+ 
  
